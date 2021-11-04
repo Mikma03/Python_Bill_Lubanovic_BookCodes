@@ -3,4 +3,4 @@ This repository contains codes from Bill Lubanovic's book.  You can think of it 
 
 Book can by buy: https://www.oreilly.com/library/view/introducing-python-2nd/9781492051374/
 
-Test pierwszy do cwiczenia comitow
+cos
