@@ -6,3 +6,5 @@ Book can by buy: https://www.oreilly.com/library/view/introducing-python-2nd/978
 zmiana cwiczeniowa
 
 drugi test
+
+trzy
