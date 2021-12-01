@@ -7,9 +7,9 @@ You can buy the book: https://www.oreilly.com/library/view/introducing-python-2n
 Helpfull link: using Jupyter and Markdown in Pycharm: https://www.jetbrains.com/help/pycharm/editing-jupyter-notebook-files.html#edit-content
 
 
-* 1. Chapter_1 - 
-* 2. Chapter_1 - 
-* 3. Chapter_1 - 
-* 4. Chapter_1 - 
-* 5. Chapter_1 - 
-* 6. Chapter_1 - 
+* Chapter_1 - 
+* Chapter_2 - 
+* Chapter_3 - 
+* Chapter_4 - 
+* Chapter_5 - 
+* Chapter_6 - 
