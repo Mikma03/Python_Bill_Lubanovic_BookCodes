@@ -10,7 +10,7 @@ Helpfull link: [using Jupyter and Markdown in Pycharm](https://www.jetbrains.com
 
 - Chapter_1 - Couple Python codes as examples
 - Chapter_2 - Keywords, variable types, assigning variables
-- Chapter_3 - Values
-- Chapter_4 - Charakters
-- Chapter_5 -
+- Chapter_3 - Values and numbers
+- Chapter_4 - Charakters and if statement
+- Chapter_5 - Strings and series
 - Chapter_6 -
