@@ -8,9 +8,9 @@ Helpfull link: [using Jupyter and Markdown in Pycharm](https://www.jetbrains.com
 
 [Python documentation](https://docs.python.org/3/contents.html)
 
-- Chapter_1 - Couple Python codes as examples.
-- Chapter_2 - Keywords, variable types, assigning variables.
-- Chapter_3 - Values.
-- Chapter_4 - Charakters.
+- Chapter_1 - Couple Python codes as examples
+- Chapter_2 - Keywords, variable types, assigning variables
+- Chapter_3 - Values
+- Chapter_4 - Charakters
 - Chapter_5 -
 - Chapter_6 -
