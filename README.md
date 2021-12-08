@@ -16,4 +16,5 @@ Helpfull link: [using Jupyter and Markdown in Pycharm](https://www.jetbrains.com
 - Chapter_6 - For & while loops
 - Chapter_7 - Tuples and list
 - Chapter_8 - Dictionary and sets
-- Chapter_9 - 
+- Chapter_9 - Functions
+- Chapter_10 - Class and objects
