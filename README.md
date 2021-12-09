@@ -18,3 +18,4 @@ Helpfull link: [using Jupyter and Markdown in Pycharm](https://www.jetbrains.com
 - Chapter_8 - Dictionary and sets
 - Chapter_9 - Functions
 - Chapter_10 - Class and objects
+- Chapter_11 - Modules and packages
