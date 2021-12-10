@@ -19,3 +19,14 @@ Helpfull link: [using Jupyter and Markdown in Pycharm](https://www.jetbrains.com
 - Chapter_9 - Functions
 - Chapter_10 - Class and objects
 - Chapter_11 - Modules and packages
+- Chapter_12 - Type of data and bytes
+- Chapter_13 - Time in Python
+- Chapter_14 - Working with files
+- Chapter_15 -
+- Chapter_16 -
+- Chapter_17 -
+- Chapter_18 -
+- Chapter_19 -
+- Chapter_20 -
+- Chapter_21 -
+- Chapter_22 -
