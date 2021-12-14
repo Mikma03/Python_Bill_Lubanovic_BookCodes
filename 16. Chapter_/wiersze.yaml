@@ -1,0 +1,24 @@
+dane:
+  imię: Stanisław
+  nazwisko: Barańczak
+daty:
+  urodzenia: 1946-11-13
+  śmierci: 2014-12-26
+szczegoly:
+  brodaty: true
+  temat: [Bonaparte, Bałkany]
+wikipeedia:
+  url: https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Bara%C5%84czak
+wiersze:
+  - tytul: 'Napoleon'
+    tekst: |
+      Bonapartego
+      Na upartego
+      Mogłyby wręcz przeoczyć historii annały.
+      Taki był mały.
+  - tytul: 'Bałkantata'
+    tekst: |
+      Pozdrowienia z miasta Krk.
+      Życie tutaj istny crk.
+      Niech się schowa swojski Szczrk,
+      Ja do Krku fyrknę. Frk.
